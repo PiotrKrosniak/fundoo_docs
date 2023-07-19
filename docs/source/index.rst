@@ -1,13 +1,10 @@
-Welcome to Lumache's documentation!
+Welcome to FunDoo documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**FunDoo** FunDoo is a chat-based program to deliver 21st Century Skills at scale available on Social Media platforms (WhatsUpp, Messeneger etc).
+Since 21st century skills cannot be learnt through books alone, ‘doing’ is an essential part of building these skills.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+This documentation contain all information about setu of the FunDoo global and Country dashboards. 
 
 .. note::
 
@@ -18,5 +15,8 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   General 
+   RapidPro
+   Countries 
+   Code Repos
+
